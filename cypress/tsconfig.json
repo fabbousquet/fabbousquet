@@ -4,5 +4,10 @@
     "lib": ["es5", "dom"],
     "types": ["cypress"]
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts"],
+  "files": [
+    "./integration/search2_spec.ts"
+    
+  ]
+
 }
